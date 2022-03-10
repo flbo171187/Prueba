@@ -1,0 +1,17 @@
+[2022-03-10 13:40:04.890] [exthost] [info] Extension host with pid 246 started
+[2022-03-10 13:40:04.980] [exthost] [info] Lock '/home/flbo/.vscode-server/data/User/workspaceStorage/eedf1932638867c5c26620227a03edda/vscode.lock': Lock acquired.
+[2022-03-10 13:40:05.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-10 13:40:05.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-10 13:40:05.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-10 13:40:05.374] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-10 13:40:06.185] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-10 13:40:06.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-10 13:40:06.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-10 13:40:08.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 13:40:08.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 13:40:08.745] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 13:40:11.148] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 13:40:16.698] [exthost] [info] Eager extensions activated
+[2022-03-10 13:44:22.159] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-03-10 13:44:22.160] [exthost] [info] Lock '/home/flbo/.vscode-server/data/User/workspaceStorage/eedf1932638867c5c26620227a03edda/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-10 13:44:22.363] [exthost] [info] Extension host with pid 246 exiting with code 0

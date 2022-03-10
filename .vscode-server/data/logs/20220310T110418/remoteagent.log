@@ -1,0 +1,10 @@
+[2022-03-10 11:04:18.226] [remoteagent] [info] Extension host agent started.
+[2022-03-10 11:04:18.269] [remoteagent] [info] [127.0.0.1][03231a9b][ManagementConnection] New connection established.
+[2022-03-10 11:04:18.488] [remoteagent] [info] [127.0.0.1][d353035f][ExtensionHostConnection] New connection established.
+[2022-03-10 11:04:18.624] [remoteagent] [info] [127.0.0.1][d353035f][ExtensionHostConnection] <1553> Launched Extension Host Process.
+[2022-03-10 11:09:14.322] [remoteagent] [info] [127.0.0.1][d353035f][ExtensionHostConnection] <1553> [0mGET /favicon.ico [33m404[0m 2.608 ms - 150[0m
+
+[2022-03-10 11:09:49.818] [remoteagent] [info] [127.0.0.1][d353035f][ExtensionHostConnection] <1553> [0mGET /favicon.ico [33m404[0m 10.157 ms - 150[0m
+
+[2022-03-10 11:21:33.359] [remoteagent] [info] [127.0.0.1][03231a9b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-10 11:21:33.859] [remoteagent] [info] [127.0.0.1][d353035f][ExtensionHostConnection] <1553> Extension Host Process exited with code: 0, signal: null.

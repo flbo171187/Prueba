@@ -1,0 +1,19 @@
+[2022-03-10 11:21:55.328] [exthost] [info] Extension host with pid 1983 started
+[2022-03-10 11:21:55.399] [exthost] [info] Lock '/home/flbo/.vscode-server/data/User/workspaceStorage/eed8cb2b1327171263911a80f801e211/vscode.lock': Lock acquired.
+[2022-03-10 11:21:56.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-10 11:21:56.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-10 11:21:56.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-10 11:21:56.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-10 11:21:56.726] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-10 11:21:57.019] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-10 11:21:57.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-10 11:21:58.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-10 11:21:58.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-10 11:22:00.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 11:22:00.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 11:22:00.605] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 11:22:03.601] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 11:22:05.605] [exthost] [info] Eager extensions activated
+[2022-03-10 11:23:05.217] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-03-10 11:23:05.220] [exthost] [info] Lock '/home/flbo/.vscode-server/data/User/workspaceStorage/eed8cb2b1327171263911a80f801e211/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-10 11:23:05.386] [exthost] [info] Extension host with pid 1983 exiting with code 0

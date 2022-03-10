@@ -1,0 +1,19 @@
+[2022-03-10T17:29:30.171Z] Validating found git in: git
+[2022-03-10T17:29:30.467Z] Using git 2.25.1 from git
+[2022-03-10T17:31:24.876Z] > git rev-parse --git-dir [11ms]
+[2022-03-10T17:31:24.887Z] Open repository: /home/flbo/Prueba/uno
+[2022-03-10T17:31:25.005Z] > git symbolic-ref --short HEAD [7ms]
+[2022-03-10T17:31:25.060Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [10ms]
+[2022-03-10T17:31:25.129Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+[2022-03-10T17:31:25.130Z] > git remote --verbose [26ms]
+[2022-03-10T17:31:25.169Z] > git config --get commit.template [7ms]
+[2022-03-10T17:32:20.777Z] > git symbolic-ref --short HEAD [2ms]
+[2022-03-10T17:32:20.858Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [32ms]
+[2022-03-10T17:32:21.042Z] > git remote --verbose [26ms]
+[2022-03-10T17:32:21.053Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [131ms]
+[2022-03-10T17:32:21.194Z] > git config --get commit.template [19ms]
+[2022-03-10T17:33:55.903Z] > git symbolic-ref --short HEAD [15ms]
+[2022-03-10T17:33:55.985Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [33ms]
+[2022-03-10T17:33:56.083Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [43ms]
+[2022-03-10T17:33:56.085Z] > git remote --verbose [17ms]
+[2022-03-10T17:33:56.164Z] > git config --get commit.template [29ms]
